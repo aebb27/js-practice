@@ -1,0 +1,12 @@
+{
+	"name": "js-practice",
+	"version": "1.0.0",
+	"description": "curso práctico de JavaScript",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"execute": "node index.js"
+	},
+	"author": "Ariel Batista <arielbatista37@gmail.com>",
+	"license": "MIT"
+}
